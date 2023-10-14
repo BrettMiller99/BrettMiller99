@@ -1,16 +1,19 @@
-### Hi there 👋
+### About Me
 
-<!--
-**BrettMiller99/BrettMiller99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hey there! I'm Brett Miller, a Back-End Java SpringBoot Developer.
+- 🎯 I have a strong foundation in Java and SpringBoot for building robust and efficient back-end systems.
+- 💡 I also have experience working with JavaScript and React for front-end development, making me a well-rounded developer.
+- 🎓 I hold a Bachelor of Science in Computer Science, equipping me with a solid understanding of computer science principles and software engineering.
+- 🌟 I'm passionate about exploring innovative technologies, especially Low-Code and No-Code tools. I find tools like Wized, Xano, and WebFlow fascinating and love exploring their potential for rapid development and prototyping.
+- 🚀 I'm always eager to take on new challenges and contribute to exciting projects.
 
-Here are some ideas to get you started:
+### Technologies and Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- JavaScript
+- React
+- Low-Code and No-Code Development
+- RESTful API Development
+- Database Management
+- Software Architecture
